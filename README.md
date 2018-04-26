@@ -1,14 +1,14 @@
 # tensorflow_AI_example
 
-## Objective
+## 1.Objective
 These are training data and python source file which demos a simple AI algorithm with neural network to recognize the hand-writing numbers. 
 
-## Neural Network Architecture
+## 2.Neural Network Architecture
 
-## Input data
+## 3.Input data
 
 
-## Folder Structure
+## 4.Folder Structure
 
 Folder | description | document |
 ---| ---| ---|
@@ -16,14 +16,18 @@ Folder | description | document |
 1-Enigma-Marketplace| study of Enigma Marketplace and Catalyst| [readme](1-Enigma-Marketplace/README.md)|
 
 
-## Software Requirement
+## 5.Software Requirement
 
+It requires following software installed:
 
-## Command to Run
+* python
+* tensorflow
 
+## 6.Command to Run
 ```
 $ python run.py
 ```
 
+<img src="img/run.png" width="500" />
 
 
