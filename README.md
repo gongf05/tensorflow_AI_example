@@ -28,6 +28,6 @@ It requires following software installed:
 $ python run.py
 ```
 
-<img src="img/run.png" width="500" />
+<img src="img/run.jpg" width="800" />
 
 
